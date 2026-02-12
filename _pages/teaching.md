@@ -5,6 +5,7 @@ title: teaching
 description: Course materials, schedules, and resources for classes taught.
 nav: false
 nav_order: 6
+published: false
 calendar: true
 ---
 
