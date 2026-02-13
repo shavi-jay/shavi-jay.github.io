@@ -159,7 +159,7 @@
             {%- endif -%}
           {% endfor %}
         {%- endif -%}
-        , and
+        , and{{ " " }}
         {%- if last_author_is_self -%}
           <em>
             {{- last_author.first }}
