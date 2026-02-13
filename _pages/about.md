@@ -32,11 +32,12 @@ Welcome to the website! I am a third-year PhD student Statistics and Machine Lea
 Prior to this, I did my undergraduate and masters in mathematics at University of Cambridge, Trinity College,  followed by a masters in computational statistics and machine learning at University College London.
 
 These are the things that interest me at the moment:
-- Uncertainty quantification in Large Language Models
-- Bayesian interpretations of In-context Learning
+- Uncertainty quantification in large language models and decision making under uncertainty
+- Bayesian interpretations of in-context learning
 - LLMs for scientific discovery - especially in chemistry and drug discovery
-- Reliability, interpretability and explainability of foundation models
+- Probabilistic machine learning
+- Mechanistic interpretability and explainability of foundation models
 - AI safety and alignment
 - Cool maths
 
-I am always open to collaborations and discussions. Feel free to reach out to me via email or LinkedIn.
+If any of these topics interest you, I am always open to collaborations and discussions! Feel free to reach out to me via email or LinkedIn.
