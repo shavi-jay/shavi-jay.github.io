@@ -39,4 +39,4 @@ These are the things that interest me at the moment:
 - AI safety and alignment
 - Cool maths
 
-Needless to say, I am always open to collaborations and discussions. Feel free to reach out to me via email or LinkedIn.
+I am always open to collaborations and discussions. Feel free to reach out to me via email or LinkedIn.
