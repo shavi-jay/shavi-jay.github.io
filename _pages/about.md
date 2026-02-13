@@ -31,7 +31,7 @@ Welcome to the website! I am a third-year PhD student Statistics and Machine Lea
 
 Prior to this, I did my undergraduate and masters in mathematics at University of Cambridge, Trinity College,  followed by a masters in computational statistics and machine learning at University College London.
 
-These are the things that interest me at the moment:
+These are a few of the things that interest me at the moment:
 - Uncertainty quantification in large language models and decision making under uncertainty
 - Bayesian interpretations of in-context learning
 - LLMs for scientific discovery - especially in chemistry and drug discovery
